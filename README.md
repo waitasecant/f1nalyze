@@ -1,1 +1,1 @@
-https://github.com/waitasecant/f1nalyze
+https://www.kaggle.com/code/waitasecant/f1nalize
